@@ -1,4 +1,4 @@
-TypeScript Blackjack CLI Game 🃏🎲
+TypeScript Blackjack Game 🃏🎲
 Project Overview
 A command-line implementation of the classic Blackjack card game built with TypeScript, demonstrating object-oriented programming and game development concepts.
 🌟 Features
@@ -34,16 +34,16 @@ npm
 Installation
 
 Clone the repository
-bashCopygit clone https://github.com/your-username/typescript-blackjack-cli.git
+Blackjack Game clone https://git@github.com:Ankitt16/Blackjack_Game.git
 
 Navigate to project directory
 bashCopycd typescript-blackjack-cli
 
 Install dependencies
-bashCopynpm install
+npm install
 
 Run the game
-bashCopynpm start
+Blackjack npm runn dev
 
 
 🎮 How to Play
